@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/emoji-search",
-  "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.17.1",
-    "react-scripts": "^3.0.1"
-  },
   "dependencies": {
-    "clipboard": "^2.0.4",
-    "github-fork-ribbon-css": "^0.2.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "clipboard": "^2.0.11",
+    "gh-pages": "^6.0.0",
+    "github-fork-ribbon-css": "^0.2.3",
+    "prettier": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
